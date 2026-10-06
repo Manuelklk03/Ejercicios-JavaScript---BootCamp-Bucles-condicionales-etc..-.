@@ -49,3 +49,41 @@ for (let i = 0; i < 10; i++) {
     sumaPares += i;
   }
 }
+
+//Ejercicio 13
+let variableValorNumerico = 5;
+
+//Ejercicio 14
+const miNombre = Manuel;
+
+//Ejercicio 15
+const miNumeroFav = 7;
+
+//Ejercicio 16
+let booleanoOr = booleano1 || booleano2;
+
+//Ejercicio 17
+let booleanoMix1 =
+  (booleano1 && TAU / 2 === PI) || valorVariableNumerico >= miNumeroFav;
+
+//Ejercicio 18
+let seisNoEsNueve = 6 !== 9;
+
+//Ejercicio 19
+let booleanoMix2 =
+  variableValorNumerico > 0 || variableValorNumerico < -(MiNumeroFav * TAU);
+
+//Ejercicio 20
+let variableSuma = variableValorNumerico + miNumeroFav;
+
+//Ejercicio 21
+
+//Ejercicio 22
+
+//Ejercicio 23
+
+//Ejercicio 24
+
+//Ejercicio 25
+
+//Ejercicio 26
