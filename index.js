@@ -74,16 +74,34 @@ let booleanoMix2 =
   variableValorNumerico > 0 || variableValorNumerico < -(MiNumeroFav * TAU);
 
 //Ejercicio 20
-let variableSuma = variableValorNumerico + miNumeroFav;
+let variableSuma = miNumeroFav + variableValorNumerico;
 
 //Ejercicio 21
+let valorResta = miNumeroFav - variableValorNumerico;
 
 //Ejercicio 22
+let valorMultiplicacion = miNumeroFav * variableValorNumerico;
 
 //Ejercicio 23
+let valorDivision = miNumeroFav / 3;
 
 //Ejercicio 24
+let contarHasta10 = 0;
+while (contarHasta10 < 10) {
+  contarHasta10++;
+}
 
 //Ejercicio 25
+let preL = 0;
+let preJ = 0;
+for (let i = 0; i < 11; i++) {
+  preL += ++preJ;
+}
 
 //Ejercicio 26
+let sumalmpares = 0;
+for (let i = 0; i < 10; i++) {
+  if (i % 2 !== 0) {
+    sumalmpares += i;
+  }
+}
